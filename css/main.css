@@ -1,3 +1,7 @@
-one:hover {
+#one:hover {
     background-color: yellow;
+}
+
+body:hover {
+    color: red;
 }
